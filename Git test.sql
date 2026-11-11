@@ -1,0 +1,3 @@
+SELECT '##'AS TEST
+FROM DUAL
+;
