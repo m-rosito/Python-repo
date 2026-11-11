@@ -1,3 +1,5 @@
-SELECT '##'AS TEST
+SELECT 
+ '##'  AS TEST1
+,'###' AS TEST2
 FROM DUAL
 ;
