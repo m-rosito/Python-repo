@@ -1,5 +1,6 @@
 SELECT 
  '##'  AS TEST1
 ,'###' AS TEST2
+,'###' AS TEST3
 FROM DUAL
 ;
